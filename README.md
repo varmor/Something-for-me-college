@@ -4,11 +4,11 @@ More instructions coming soon
 
 # Programs include
 # Brew (Package manager)
-# Git
-# Sublime-text
-# Fish
-# Kitty
-# Vscodium
-# Neofetch
-# Python3
-# pip3
+# Git (World's most important tool)
+# Sublime-text (Text editor)
+# Fish (Fancy shell)
+# Kitty (Better terminal)
+# Vscodium (Another text editor)
+# Neofetch (System info fetching tool)
+# Python3 (If dont know what this is I fell sorry for you)
+# pip3 (Package Manger for python packages)
