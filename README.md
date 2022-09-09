@@ -1,8 +1,14 @@
 # Something-for-me-college
 It's a bash script to install few programs
+More instructions coming soon
 
-# INSTRUCTIONS FOR LINUX USERS
-git clone this pillock and run ./setup.sh
-
-# INSTRUCTIONS FOR FEEBLE MINDED WINDOWS/MAC USERS (FOLLOW CAREFULLY)
- 
+# Programs include
+# Brew (Package manager)
+# Git
+# Sublime-text
+# Fish
+# Kitty
+# Vscodium
+# Neofetch
+# Python3
+# pip3
