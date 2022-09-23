@@ -4,6 +4,7 @@ More instructions coming soon
 
 # Programs include
 # Brew (Package manager)
+# Brave (Good browser with privacy and security)
 # Git (World's most important tool)
 # Sublime-text (Text editor)
 # Fish (Fancy shell)
