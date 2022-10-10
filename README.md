@@ -13,3 +13,9 @@ More instructions coming soon
 # Neofetch (System info fetching tool)
 # Python3 (If dont know what this is I fell sorry for you)
 # pip3 (Package Manger for python packages)
+
+'''sh
+cd Something-for-me-college
+chmod +x setup.sh
+./setup.sh
+```
