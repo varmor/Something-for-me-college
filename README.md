@@ -15,6 +15,7 @@ More instructions coming soon
 # pip3 (Package Manger for python packages)
 
 ```sh
+https://github.com/Squashedapricot/Something-for-me-college.git
 cd Something-for-me-college
 chmod +x setup.sh
 ./setup.sh
