@@ -1,4 +1,4 @@
-# Something-for-me-college
+# Something-for-me-college 
 It's a bash script to install few programs
 More instructions coming soon
 
