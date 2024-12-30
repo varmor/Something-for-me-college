@@ -1,6 +1,6 @@
 #!/bin//bash
 
-echo Installing brew.......
+Sam you are a Hacker!
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
